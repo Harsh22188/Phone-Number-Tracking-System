@@ -8,7 +8,7 @@ from tkinter import messagebox
 from opencage.geocoder import OpenCageGeocode
 
 # Assign your actual OpenCage API key
-key = 'f2f3bba82e8a429c99b7a488f44cf4e8'
+key = ''YOUR_API_KEY''
 
 # Initialize the main window
 root = tk.Tk()
